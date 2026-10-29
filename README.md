@@ -18,28 +18,4 @@ O **MathTrail** nasceu da iniciativa de alunos da UNICAMP com o objetivo de comb
 * ⚡ **Exercícios Rápidos e Dinâmicos:** Questões de múltipla escolha, verdadeiro ou falso, preenchimento de lacunas e resolução rápida de equações.
 * 📊 **Painel de Progresso:** Acompanhamento de desempenho por tópico para identificar pontos fortes e fracos.
 
----
 
-## 🛠️ Tecnologias Utilizadas
-
-Este projeto utiliza uma stack moderna e de fácil execução local:
-
-* **Frontend:** [React](https://react.dev/) / [Next.js](https://nextjs.org/) com Tailwind CSS para uma interface fluida e responsiva.
-* **Backend:** [Node.js](https://nodejs.org/) com [Express](https://expressjs.com/) para gerenciamento de rotas e lógica de gamificação.
-* **Banco de Dados:** [SQLite](https://www.sqlite.org/) para armazenamento leve de usuários, progresso e banco de questões.
-* **Containerização:** [Docker](https://www.docker.com/) para padronizar o ambiente de desenvolvimento.
-
----
-
-## ⚙️ Como Executar o Projeto Localmente
-
-### Pré-requisitos
-* [Node.js](https://nodejs.org/) (versão 18+)
-* [Docker](https://www.docker.com/) (opcional, para rodar via container)
-
-### Passo a Passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/mathtrail-unicamp.git](https://github.com/seu-usuario/mathtrail-unicamp.git)
-   cd mathtrail-unicamp
